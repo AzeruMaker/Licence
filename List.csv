@@ -1,15 +1,15 @@
 Type of Copyright;License Type;License Name;License Code;Commercial Use;Modification;Use;Documentation Link
-Software;Free;GNU General Public License v1;GPLv1;Allowed;Allowed under the same license;Allowed;GPLv1
-Software;Free;GNU General Public License v2;GPLv2;Allowed;Allowed under the same license;Allowed;GPLv2
-Software;Free;GNU General Public License v3;GPLv3;Allowed;Allowed under the same license;Allowed;GPLv3
-Software;Free;GNU Lesser General Public License v2.1;LGPLv2.1;Allowed;Allowed under the same license;Allowed;LGPLv2.1
-Software;Free;GNU Lesser General Public License v3;LGPLv3;Allowed;Allowed under the same license;Allowed;LGPLv3
-Software;Free;MIT License;MIT;Allowed;Allowed;Allowed;MIT
-Software;Free;Apache License v1.0;Apache-1.0;Allowed;Allowed;Allowed;Apache-1.0
-Software;Free;Apache License v1.1;Apache-1.1;Allowed;Allowed;Allowed;Apache-1.1
-Software;Free;Apache License v2.0;Apache-2.0;Allowed;Allowed;Allowed;Apache-2.0
-Software;Free;BSD 2-Clause License;BSD-2-Clause;Allowed;Allowed;Allowed;BSD-2-Clause
-Software;Free;BSD 3-Clause License;BSD-3-Clause;Allowed;Allowed;Allowed;BSD-3-Clause
+Software;Free;GNU General Public License v1;GPLv1;Allowed;Allowed under the same license;Allowed;https://www.gnu.org/licenses/old-licenses/gpl-1.0.html
+Software;Free;GNU General Public License v2;GPLv2;Allowed;Allowed under the same license;Allowed;https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+Software;Free;GNU General Public License v3;GPLv3;Allowed;Allowed under the same license;Allowed;https://www.gnu.org/licenses/quick-guide-gplv3.en.html
+Software;Free;GNU Lesser General Public License v2.1;LGPLv2.1;Allowed;Allowed under the same license;Allowed;https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html
+Software;Free;GNU Lesser General Public License v3;LGPLv3;Allowed;Allowed under the same license;Allowed;https://www.gnu.org/licenses/lgpl-3.0.en.html
+Software;Free;MIT License;MIT;Allowed;Allowed;Allowed;https://www.mit.edu/~amini/LICENSE.md
+Software;Free;Apache License v1.0;Apache-1.0;Allowed;Allowed;Allowed;https://www.apache.org/licenses/LICENSE-1.0
+Software;Free;Apache License v1.1;Apache-1.1;Allowed;Allowed;Allowed;https://www.apache.org/licenses/LICENSE-1.1
+Software;Free;Apache License v2.0;Apache-2.0;Allowed;Allowed;Allowed;https://www.apache.org/licenses/LICENSE-2.0
+Software;Free;BSD 2-Clause License;BSD-2-Clause;Allowed;Allowed;Allowed;https://www.tldrlegal.com/license/bsd-2-clause-license-freebsd
+Software;Free;BSD 3-Clause License;BSD-3-Clause;Allowed;Allowed;Allowed;https://www.tldrlegal.com/license/bsd-3-clause-license-revised
 Software;Free;Mozilla Public License v1.0;MPL-1.0;Allowed;Allowed;Allowed;MPL-1.0
 Software;Free;Mozilla Public License v1.1;MPL-1.1;Allowed;Allowed;Allowed;MPL-1.1
 Software;Free;Mozilla Public License v2.0;MPL-2.0;Allowed;Allowed;Allowed;MPL-2.0
