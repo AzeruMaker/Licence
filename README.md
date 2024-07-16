@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-List of all differents licences.
+
 
 <html>
 <head>
@@ -17,7 +17,7 @@ Usefull link :
 - tl;drLegal : https://www.tldrlegal.com/
 - Why you should use a BSD style license for your Open Source Project : https://docs.freebsd.org/en/articles/b
 
-
+List of all differents licences :
 <table cellspacing="0" border="0">
 	<colgroup span="2" width="85"></colgroup>
 	<colgroup width="224"></colgroup>
