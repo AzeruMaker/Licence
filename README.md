@@ -6,7 +6,18 @@ List of all differents licences.
 	
 </head>
 
+
 <body>
+
+Usefull link :
+- Choose an open source license : https://choosealicense.com/
+- FSF Licensing & Compliance Team : https://www.fsf.org/licensing
+- GNU Licenses : https://www.gnu.org/licenses/
+- MIT License Line By Line : https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html
+- tl;drLegal : https://www.tldrlegal.com/
+- Why you should use a BSD style license for your Open Source Project : https://docs.freebsd.org/en/articles/b
+
+
 <table cellspacing="0" border="0">
 	<colgroup span="2" width="85"></colgroup>
 	<colgroup width="224"></colgroup>
