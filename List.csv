@@ -10,86 +10,84 @@ Software;Free;Apache License v1.1;Apache-1.1;Allowed;Allowed;Allowed;https://www
 Software;Free;Apache License v2.0;Apache-2.0;Allowed;Allowed;Allowed;https://www.apache.org/licenses/LICENSE-2.0
 Software;Free;BSD 2-Clause License;BSD-2-Clause;Allowed;Allowed;Allowed;https://www.tldrlegal.com/license/bsd-2-clause-license-freebsd
 Software;Free;BSD 3-Clause License;BSD-3-Clause;Allowed;Allowed;Allowed;https://www.tldrlegal.com/license/bsd-3-clause-license-revised
-Software;Free;Mozilla Public License v1.0;MPL-1.0;Allowed;Allowed;Allowed;MPL-1.0
-Software;Free;Mozilla Public License v1.1;MPL-1.1;Allowed;Allowed;Allowed;MPL-1.1
-Software;Free;Mozilla Public License v2.0;MPL-2.0;Allowed;Allowed;Allowed;MPL-2.0
-Software;Free;Eclipse Public License v1.0;EPL-1.0;Allowed;Allowed under the same license;Allowed;EPL-1.0
-Software;Free;Eclipse Public License v2.0;EPL-2.0;Allowed;Allowed under the same license;Allowed;EPL-2.0
-Software;Free;Artistic License v1.0;Artistic-1.0;Allowed;Allowed under the same license;Allowed;Artistic-1.0
-Software;Free;Artistic License v2.0;Artistic-2.0;Allowed;Allowed under the same license;Allowed;Artistic-2.0
-Creative Work;Free;Creative Commons Zero;CC0;Allowed;Allowed;Allowed;CC0
-Creative Work;Free;Creative Commons Attribution;CC BY;Allowed;Allowed with attribution;Allowed with attribution;CC BY
-Creative Work;Free;Creative Commons Attribution-ShareAlike;CC BY-SA;Allowed;Allowed under the same license;Allowed with attribution;CC BY-SA
-Creative Work;Free;Creative Commons Attribution-NoDerivs;CC BY-ND;Allowed;Not allowed;Allowed with attribution;CC BY-ND
-Creative Work;Free;Creative Commons Attribution-NonCommercial;CC BY-NC;Not allowed;Allowed with attribution;Allowed with attribution;CC BY-NC
-Creative Work;Free;Creative Commons Attribution-NonCommercial-ShareAlike;CC BY-NC-SA;Not allowed;Allowed under the same license;Allowed with attribution;CC BY-NC-SA
-Creative Work;Free;Creative Commons Attribution-NonCommercial-NoDerivs;CC BY-NC-ND;Not allowed;Not allowed;Allowed with attribution;CC BY-NC-ND
-Software;Free;GNU Affero General Public License v1;AGPLv1;Allowed;Allowed under the same license;Allowed;AGPLv1
-Software;Free;GNU Affero General Public License v3;AGPLv3;Allowed;Allowed under the same license;Allowed;AGPLv3
-Software;Free;Zlib License;Zlib;Allowed;Allowed;Allowed;Zlib
-Software;Free;libpng License;libpng;Allowed;Allowed;Allowed;libpng
-Software;Free;ISC License;ISC;Allowed;Allowed;Allowed;ISC
-Software;Free;Boost Software License;Boost;Allowed;Allowed;Allowed;Boost
-Software;Free;Open Software License v1.0;OSL-1.0;Allowed;Allowed under the same license;Allowed;OSL-1.0
-Software;Free;Open Software License v2.0;OSL-2.0;Allowed;Allowed under the same license;Allowed;OSL-2.0
-Software;Free;Open Software License v3.0;OSL-3.0;Allowed;Allowed under the same license;Allowed;OSL-3.0
-Software;Free;Common Public License;CPL;Allowed;Allowed under the same license;Allowed;CPL
-Software;Free;Python Software Foundation License v1.6;Python-1.6;Allowed;Allowed;Allowed;Python-1.6
-Software;Free;Python Software Foundation License v2.0;Python-2.0;Allowed;Allowed;Allowed;Python-2.0
-Software;Free;Ruby License v1.8;Ruby-1.8;Allowed;Allowed;Allowed;Ruby-1.8
-Software;Free;Ruby License v2.0;Ruby-2.0;Allowed;Allowed;Allowed;Ruby-2.0
-Software;Free;PHP License v3.01;PHP-3.01;Allowed;Allowed;Allowed;PHP-3.01
-Software;Free;PHP License v2.02;PHP-2.02;Allowed;Allowed;Allowed;PHP-2.02
-Software;Free;Perl Artistic License;Perl;Allowed;Allowed under the same license;Allowed;Perl
-Software;Free;PostgreSQL License;PostgreSQL;Allowed;Allowed;Allowed;PostgreSQL
-Software;Free;OpenSSL License;OpenSSL;Allowed;Allowed;Allowed;OpenSSL
-Software;Free;University of Illinois/NCSA Open Source License;NCSA;Allowed;Allowed;Allowed;NCSA
-Software;Free;CeCILL License v1;CeCILL-v1;Allowed;Allowed under the same license;Allowed;CeCILL-v1
-Software;Free;CeCILL License v2;CeCILL-v2;Allowed;Allowed under the same license;Allowed;CeCILL-v2
-Software;Free;CeCILL License v2.1;CeCILL-v2.1;Allowed;Allowed under the same license;Allowed;CeCILL-v2.1
-Software;Free;CeCILL-C License;CeCILL-C;Allowed;Allowed under the same license;Allowed;CeCILL-C
-Software;Free;CeCILL-B License;CeCILL-B;Allowed;Allowed under the same license;Allowed;CeCILL-B
-Software;Free;Academic Free License v1.0;AFL-1.0;Allowed;Allowed;Allowed;AFL-1.0
-Software;Free;Academic Free License v2.0;AFL-2.0;Allowed;Allowed;Allowed;AFL-2.0
-Software;Free;Academic Free License v3.0;AFL-3.0;Allowed;Allowed;Allowed;AFL-3.0
-Software;Free;Apple Public Source License v1.0;APSL-1.0;Allowed;Allowed under the same license;Allowed;APSL-1.0
-Software;Free;Apple Public Source License v1.1;APSL-1.1;Allowed;Allowed under the same license;Allowed;APSL-1.1
-Software;Free;Apple Public Source License v1.2;APSL-1.2;Allowed;Allowed under the same license;Allowed;APSL-1.2
-Software;Free;Apple Public Source License v2.0;APSL-2.0;Allowed;Allowed under the same license;Allowed;APSL-2.0
-Software;Free;IBM Public License;IPL;Allowed;Allowed;Allowed;IPL
-Software;Free;Intel Open Source License;Intel;Allowed;Allowed;Allowed;Intel
-Software;Free;W3C Software Notice and License;W3C;Allowed;Allowed;Allowed;W3C
-Software;Free;Microsoft Public License;Ms-PL;Allowed;Allowed;Allowed;Ms-PL
-Software;Free;Microsoft Reciprocal License;Ms-RL;Allowed;Allowed under the same license;Allowed;Ms-RL
-Software;Free;Ricoh Source Code Public License;Ricoh;Allowed;Allowed;Allowed;Ricoh
-Software;Free;RealNetworks Public Source License;RPSL;Allowed;Allowed;Allowed;RPSL
-Software;Free;Nokia Open Source License;Nokia;Allowed;Allowed;Allowed;Nokia
-Software;Free;CNRI Python License;CNRI;Allowed;Allowed;Allowed;CNRI
-Software;Free;Erlang Public License v1.1;Erlang-1.1;Allowed;Allowed under the same license;Allowed;Erlang-1.1
-Software;Free;EU DataGrid Software License;EUDatagrid;Allowed;Allowed;Allowed;EUDatagrid
-Software;Free;Fair License;Fair;Allowed;Allowed;Allowed;Fair
-Software;Free;Frameworx License;Frameworx;Allowed;Allowed;Allowed;Frameworx
-Software;Free;Vovida Software License;Vovida;Allowed;Allowed;Allowed;Vovida
-Software;Free;Sybase Open Watcom Public License;Sybase;Allowed;Allowed;Allowed;Sybase
-Software;Free;Sleepycat License;Sleepycat;Allowed;Allowed;Allowed;Sleepycat
-Software;Free;Lucent Public License;Lucent;Allowed;Allowed;Allowed;Lucent
-Software;Free;Entessa Public License;Entessa;Allowed;Allowed;Allowed;Entessa
-Software;Free;Motosoto License;Motosoto;Allowed;Allowed;Allowed;Motosoto
-Software;Free;NAUMEN Public License;NAUMEN;Allowed;Allowed;Allowed;NAUMEN
-Software;Free;NASA Open Source Agreement;NOSA;Allowed;Allowed;Allowed;NOSA
-Software;Free;University of Illinois/NCSA Open Source License;NCSA;Allowed;Allowed;Allowed;NCSA
-Software;Free;OCLC Research Public License;OCLC;Allowed;Allowed;Allowed;OCLC
-Software;Free;Standard ML of New Jersey License;SML/NJ;Allowed;Allowed;Allowed;SML/NJ
-Software;Free;Sun Public License;Sun;Allowed;Allowed;Allowed;Sun
-Software;Free;Unicode License;Unicode;Allowed;Allowed;Allowed;Unicode
-Documentation;Free;GNU Free Documentation License;GFDL;Allowed;Allowed under the same license;Allowed;GFDL
-Software;Free;Open Public License;OPL;Allowed;Allowed;Allowed;OPL
-Data;Free;Open Database License;ODbL;Allowed;Allowed;Allowed;ODbL
-Data;Free;Database Contents License;DbCL;Allowed;Allowed;Allowed;DbCL
-Fonts;Free;SIL Open Font License;OFL;Allowed;Allowed;Allowed;OFL
-Software;Free;European Union Public License;EUPL;Allowed;Allowed under the same license;Allowed;EUPL
-Software;Free;Common Development and Distribution License v1.0;CDDL-1.0;Allowed;Allowed under the same license;Allowed;CDDL-1.0
-Software;Free;Common Development and Distribution License v1.1;CDDL-1.1;Allowed;Allowed under the same license;Allowed;CDDL-1.1
-Software;Free;NASA Open Source Agreement;NOSA;Allowed;Allowed;Allowed;NOSA
-Data;Free;Public Domain Mark;PDM;Allowed;Allowed;Allowed;PDM
-Software;Proprietary;End-User License Agreement;EULA;Allowed;Not typically allowed;Allowed;Dependent on specific EULA
+Software;Free;Mozilla Public License v1.0;MPL-1.0;Allowed;Allowed;Allowed;https://www-archive.mozilla.org/mpl/mpl-1.0
+Software;Free;Mozilla Public License v1.1;MPL-1.1;Allowed;Allowed;Allowed;https://www.mozilla.org/en-US/MPL/1.1/
+Software;Free;Mozilla Public License v2.0;MPL-2.0;Allowed;Allowed;Allowed;https://www.mozilla.org/en-US/MPL/2.0/
+Software;Free;Eclipse Public License v1.0;EPL-1.0;Allowed;Allowed under the same license;Allowed;https://www.eclipse.org/legal/epl-v10.html
+Software;Free;Eclipse Public License v2.0;EPL-2.0;Allowed;Allowed under the same license;Allowed;https://www.eclipse.org/legal/epl-v20.html
+Software;Free;Artistic License v1.0;Artistic-1.0;Allowed;Allowed under the same license;Allowed;https://opensource.org/license/artistic-1-0
+Software;Free;Artistic License v2.0;Artistic-2.0;Allowed;Allowed under the same license;Allowed;https://opensource.org/license/artistic-2-0
+Creative Work;Free;Creative Commons Zero;CC0;Allowed;Allowed;Allowed;https://creativecommons.org/publicdomain/zero/1.0/deed.fr
+Creative Work;Free;Creative Commons Attribution;CC BY;Allowed;Allowed with attribution;Allowed with attribution;https://creativecommons.org/licenses/by/4.0/deed.fr
+Creative Work;Free;Creative Commons Attribution-ShareAlike;CC BY-SA;Allowed;Allowed under the same license;Allowed with attribution;https://creativecommons.org/licenses/by-sa/4.0/deed.fr
+Creative Work;Free;Creative Commons Attribution-NoDerivs;CC BY-ND;Allowed;Not allowed;Allowed with attribution;https://creativecommons.org/licenses/by-nd/2.0/fr/deed.fr
+Creative Work;Free;Creative Commons Attribution-NonCommercial;CC BY-NC;Not allowed;Allowed with attribution;Allowed with attribution;https://creativecommons.org/licenses/by-nc/4.0/deed.fr
+Creative Work;Free;Creative Commons Attribution-NonCommercial-ShareAlike;CC BY-NC-SA;Not allowed;Allowed under the same license;Allowed with attribution;https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr
+Creative Work;Free;Creative Commons Attribution-NonCommercial-NoDerivs;CC BY-NC-ND;Not allowed;Not allowed;Allowed with attribution;https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr
+Software;Free;GNU Affero General Public License v1;AGPLv1;Allowed;Allowed under the same license;Allowed;https://spdx.org/licenses/AGPL-1.0.html
+Software;Free;GNU Affero General Public License v3;AGPLv3;Allowed;Allowed under the same license;Allowed;https://www.gnu.org/licenses/agpl-3.0.en.html
+Software;Free;Zlib License;Zlib;Allowed;Allowed;Allowed;https://www.zlib.net/zlib_license.html
+Software;Free;libpng License;libpng;Allowed;Allowed;Allowed;http://www.libpng.org/pub/png/src/libpng-LICENSE.txt
+Software;Free;ISC License;ISC;Allowed;Allowed;Allowed;https://opensource.org/license/isc-license-txt
+Software;Free;Boost Software License;Boost;Allowed;Allowed;Allowed;https://www.boost.org/users/license.html
+Software;Free;Open Software License v1.0;OSL-1.0;Allowed;Allowed under the same license;Allowed;https://spdx.org/licenses/OSL-1.0.html
+Software;Free;Open Software License v2.0;OSL-2.0;Allowed;Allowed under the same license;Allowed;https://spdx.org/licenses/OSL-2.0.html
+Software;Free;Open Software License v3.0;OSL-3.0;Allowed;Allowed under the same license;Allowed;https://spdx.org/licenses/OSL-3.0.html
+Software;Free;Common Public License;CPL;Allowed;Allowed under the same license;Allowed;https://opensource.org/license/cpl1-0-txt
+Software;Free;Python Software Foundation License v1.6;Python-1.6;Allowed;Allowed;Allowed;https://opensource.org/license/CNRI-Python
+Software;Free;Python Software Foundation License v2.0;Python-2.0;Allowed;Allowed;Allowed;https://opensource.org/license/CNRI-Python
+Software;Free;Ruby License v1.8;Ruby-1.8;Allowed;Allowed;Allowed;https://www.ruby-lang.org/en/about/license.txt
+Software;Free;Ruby License v2.0;Ruby-2.0;Allowed;Allowed;Allowed;https://www.ruby-lang.org/en/about/license.txt
+Software;Free;PHP License v3.01;PHP-3.01;Allowed;Allowed;Allowed;https://www.php.net/license/3_0.txt
+Software;Free;PHP License v2.02;PHP-2.02;Allowed;Allowed;Allowed;https://www.php.net/license/2_02.txt
+Software;Free;Perl Artistic License;Perl;Allowed;Allowed under the same license;Allowed;https://dev.perl.org/licenses/
+Software;Free;PostgreSQL License;PostgreSQL;Allowed;Allowed;Allowed;https://www.postgresql.org/about/licence/
+Software;Free;OpenSSL License;OpenSSL;Allowed;Allowed;Allowed;https://github.com/openssl/openssl/blob/master/LICENSE.txt
+Software;Free;University of Illinois/NCSA Open Source License;NCSA;Allowed;Allowed;Allowed;https://spdx.org/licenses/NCSA.html
+Software;Free;CeCILL License v1;CeCILL-v1;Allowed;Allowed under the same license;Allowed;http://www.cecill.info/licences/Licence_CeCILL_V1.1-US.txt
+Software;Free;CeCILL License v2;CeCILL-v2;Allowed;Allowed under the same license;Allowed;http://www.cecill.info/licences/Licence_CeCILL_V2-en.txt
+Software;Free;CeCILL License v2.1;CeCILL-v2.1;Allowed;Allowed under the same license;Allowed;http://www.cecill.info/licences/Licence_CeCILL_V2.1-en.txt
+Software;Free;CeCILL-C License;CeCILL-C;Allowed;Allowed under the same license;Allowed;http://www.cecill.info/licences/Licence_CeCILL-C_V1-en.txt
+Software;Free;CeCILL-B License;CeCILL-B;Allowed;Allowed under the same license;Allowed;http://www.cecill.info/licences/Licence_CeCILL-B_V1-en.txt
+Software;Free;Academic Free License v1.0;AFL-1.0;Allowed;Allowed;Allowed;https://spdx.org/licenses/AFL-1.1.html
+Software;Free;Academic Free License v2.0;AFL-2.0;Allowed;Allowed;Allowed;https://spdx.org/licenses/AFL-2.0.html
+Software;Free;Academic Free License v3.0;AFL-3.0;Allowed;Allowed;Allowed;https://spdx.org/licenses/AFL-3.0.html
+Software;Free;Apple Public Source License v1.0;APSL-1.0;Allowed;Allowed under the same license;Allowed;https://spdx.org/licenses/APSL-1.0.html
+Software;Free;Apple Public Source License v1.1;APSL-1.1;Allowed;Allowed under the same license;Allowed;https://spdx.org/licenses/APSL-1.1.html
+Software;Free;Apple Public Source License v1.2;APSL-1.2;Allowed;Allowed under the same license;Allowed;https://spdx.org/licenses/APSL-1.2.html
+Software;Free;Apple Public Source License v2.0;APSL-2.0;Allowed;Allowed under the same license;Allowed;https://opensource.apple.com/apsl/
+Software;Free;IBM Public License;IPL;Allowed;Allowed;Allowed;https://www.ibm.com/docs/en/linux-on-systems?topic=examples-common-public-license-v10
+Software;Free;Intel Open Source License;Intel;Allowed;Allowed;Allowed;https://opensource.org/license/intel
+Software;Free;W3C Software Notice and License;W3C;Allowed;Allowed;Allowed;https://www.w3.org/copyright/software-license-2023/
+Software;Free;Microsoft Public License;Ms-PL;Allowed;Allowed;Allowed;https://spdx.org/licenses/MS-PL.html
+Software;Free;Microsoft Reciprocal License;Ms-RL;Allowed;Allowed under the same license;Allowed;https://spdx.org/licenses/MS-RL.html
+Software;Free;Ricoh Source Code Public License;Ricoh;Allowed;Allowed;Allowed;https://spdx.org/licenses/RSCPL.html
+Software;Free;RealNetworks Public Source License;RPSL;Allowed;Allowed;Allowed;https://spdx.org/licenses/RPSL-1.0.html
+Software;Free;Nokia Open Source License;Nokia;Allowed;Allowed;Allowed;https://opensource.org/license/nokia
+Software;Free;CNRI Python License;CNRI;Allowed;Allowed;Allowed;https://spdx.org/licenses/CNRI-Python.html
+Software;Free;Erlang Public License v1.1;Erlang-1.1;Allowed;Allowed under the same license;Allowed;https://www.erlang.org/EPLICENSE
+Software;Free;EU DataGrid Software License;EUDatagrid;Allowed;Allowed;Allowed;https://opensource.org/license/eudatagrid-php
+Software;Free;Fair License;Fair;Allowed;Allowed;Allowed;https://opensource.org/license/fair
+Software;Free;Frameworx License;Frameworx;Allowed;Allowed;Allowed;https://spdx.org/licenses/Frameworx-1.0.html
+Software;Free;Vovida Software License;Vovida;Allowed;Allowed;Allowed;https://opensource.org/license/vovidapl-php
+Software;Free;Sybase Open Watcom Public License;Sybase;Allowed;Allowed;Allowed;https://spdx.org/licenses/Watcom-1.0.html
+Software;Free;Sleepycat License;Sleepycat;Allowed;Allowed;Allowed;https://opensource.org/license/sleepycat-php
+Software;Free;Lucent Public License;Lucent;Allowed;Allowed;Allowed;https://spdx.org/licenses/LPL-1.02.html
+Software;Free;Entessa Public License;Entessa;Allowed;Allowed;Allowed;https://opensource.org/license/entessa
+Software;Free;Motosoto License;Motosoto;Allowed;Allowed;Allowed;https://spdx.org/licenses/Motosoto.html
+Software;Free;NAUMEN Public License;NAUMEN;Allowed;Allowed;Allowed;https://opensource.org/license/naumen-php
+Software;Free;NASA Open Source Agreement;NOSA;Allowed;Allowed;Allowed;https://opensource.gsfc.nasa.gov/documents/NASA_Open_Source_Agreement_1.3.pdf
+Software;Free;University of Illinois/NCSA Open Source License;NCSA;Allowed;Allowed;Allowed;https://spdx.org/licenses/NCSA.html
+Software;Free;OCLC Research Public License;OCLC;Allowed;Allowed;Allowed;https://www.oclc.org/research/areas/data-science/license/v2final.html
+Software;Free;Standard ML of New Jersey License;SML/NJ;Allowed;Allowed;Allowed;https://www.smlnj.org/license.html
+Software;Free;Sun Public License;Sun;Allowed;Allowed;Allowed;https://spdx.org/licenses/SPL-1.0.html
+Software;Free;Unicode License;Unicode;Allowed;Allowed;Allowed;https://www.unicode.org/license.txt
+Documentation;Free;GNU Free Documentation License;GFDL;Allowed;Allowed under the same license;Allowed;https://www.gnu.org/licenses/fdl-1.3.html#license-text
+Data;Free;Open Database License;ODbL;Allowed;Allowed;Allowed;https://opendatacommons.org/licenses/odbl/
+Data;Free;Database Contents License;DbCL;Allowed;Allowed;Allowed;https://opendatacommons.org/licenses/dbcl/1-0/
+Fonts;Free;SIL Open Font License;OFL;Allowed;Allowed;Allowed;https://openfontlicense.org/open-font-license-official-text/
+Software;Free;European Union Public License;EUPL;Allowed;Allowed under the same license;Allowed;https://eupl.eu/1.2/en/
+Software;Free;Common Development and Distribution License v1.0;CDDL-1.0;Allowed;Allowed under the same license;Allowed;https://spdx.org/licenses/CDDL-1.0.html
+Software;Free;Common Development and Distribution License v1.1;CDDL-1.1;Allowed;Allowed under the same license;Allowed;https://spdx.org/licenses/CDDL-1.1.html
+Data;Free;Public Domain Mark;PDM;Allowed;Allowed;Allowed;https://creativecommons.org/publicdomain/mark/1.0/deed.en
+Software;Proprietary;End-User License Agreement;EULA;Allowed;Not typically allowed;Allowed;Check specific EULA
